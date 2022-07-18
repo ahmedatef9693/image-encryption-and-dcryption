@@ -1,0 +1,8 @@
+c:\users\mekky\documents\visual studio 2013\Projects\PROJECT_ALGO\PROJECT_ALGO\bin\Debug\PROJECT_ALGO.exe.config
+c:\users\mekky\documents\visual studio 2013\Projects\PROJECT_ALGO\PROJECT_ALGO\bin\Debug\PROJECT_ALGO.exe
+c:\users\mekky\documents\visual studio 2013\Projects\PROJECT_ALGO\PROJECT_ALGO\bin\Debug\PROJECT_ALGO.pdb
+c:\users\mekky\documents\visual studio 2013\Projects\PROJECT_ALGO\PROJECT_ALGO\obj\Debug\PROJECT_ALGO.Form1.resources
+c:\users\mekky\documents\visual studio 2013\Projects\PROJECT_ALGO\PROJECT_ALGO\obj\Debug\PROJECT_ALGO.Properties.Resources.resources
+c:\users\mekky\documents\visual studio 2013\Projects\PROJECT_ALGO\PROJECT_ALGO\obj\Debug\PROJECT_ALGO.csproj.GenerateResource.Cache
+c:\users\mekky\documents\visual studio 2013\Projects\PROJECT_ALGO\PROJECT_ALGO\obj\Debug\PROJECT_ALGO.exe
+c:\users\mekky\documents\visual studio 2013\Projects\PROJECT_ALGO\PROJECT_ALGO\obj\Debug\PROJECT_ALGO.pdb
